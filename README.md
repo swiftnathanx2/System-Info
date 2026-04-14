@@ -9,7 +9,7 @@ A terminal shell script that displays critical information about the users compu
 -Show system uptime
 -Provide comprehensive information about storage
 -Show memory usage and heavy processes
--Display CPU usage 
+-Display CPU usage.
 
 ## 🛠 Tech Stack
 **Language**
